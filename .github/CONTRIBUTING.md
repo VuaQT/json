@@ -222,4 +222,4 @@ The following areas really need contribution and are always welcomed:
   is not everything, speed and memory consumption are very important characteristics for C++ developers, so having
   proper comparisons would be interesting.
 
-We look forward to your contributions and collaboration to enhance the library!!!!!
+We look forward to your contributions and collaboration to enhance the library!!!!!:D
